@@ -1,0 +1,10 @@
+Glosario de terminos:
+
+- mmHg: milimetros de mercurio. Unidad utilzada para medir la presion arterial.
+
+- Ta: tension arterial, presion arterial.
+
+- Rx: abreviatura de la palabra en latin recipere, el cual significa "tomar" o "tomar de esta manera"
+  las instrucciones que el farmaceutico tiene que tomar.
+
+- mg: miligramos.
